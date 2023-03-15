@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="exercise13photonjacoblinco.jnlp">
+  <information>
+    <title>exercise13photonjacoblinco</title>
+    <vendor>acer</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="exercise13photonjacoblinco.jar" size="24031" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="exercise13photonjacoblinco.Exercise13photonjacoblinco"  name="exercise13photonjacoblinco" />
+  <update check="always"/>
+</jnlp>
